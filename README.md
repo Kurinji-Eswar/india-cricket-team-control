@@ -694,10 +694,10 @@ SRM Institute of Science and Technology, Trichy
 # 🔗 Connect
 
 **GitHub**  
-github.com/Kurinji-Eswar
+https://github.com/Kurinji-Eswar
 
 **LinkedIn**  
-linkedin.com/in/kurinji-eswar
+https://linkedin.com/in/kurinji-eswar
 
 ---
 
